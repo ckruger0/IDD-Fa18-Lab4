@@ -4,7 +4,7 @@
 
 ## Part A. Actuating DC motors
 
-**Link to a video of your vibration motor**
+<a href="https://youtu.be/oduniCfF61g">Vibration Motor Video</a>
 
 ## Part B. Actuating Servo motors
 
@@ -20,9 +20,10 @@ Yellow wire to signal, red wire to 5v power, and brown wire to ground.
 **b. What aspects of the Servo code control angle or speed?**<BR>
 Decreasing the number in the `delay()` portion of the code increases speed, while increasing it decreases servo speed. Angle is controlled in the range for the `for()` loop, changing pos range from 0-180 to different values.
 
-## Part C. Integrating input and output
+## Part C. Integrating input and output<BR>
 
-**Include a photo/movie of your raw circuit in action.**
+<a href="https://youtu.be/k8WhCB4AeVo">Circuit in Action Video</a><BR><BR>
+<a href="https://github.com/ckruger0/IDD-Fa18-Lab4/blob/master/integrating_input_output.ino">Integrating Input/Output Code</a>
 
 ## Part D. Paper puppet
 
