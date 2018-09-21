@@ -27,7 +27,7 @@ Decreasing the number in the `delay()` portion of the code increases speed, whil
 
 ## Part D. Paper puppet
 
-**a. Make a video of your proto puppet.**
+<a href="https://youtu.be/airvcMBmlfs">Paper Puppet Stretch</a>
 
 ## Part E. Make it your own
 
