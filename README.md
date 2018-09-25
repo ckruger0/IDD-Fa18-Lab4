@@ -31,7 +31,7 @@ Decreasing the number in the `delay()` portion of the code increases speed, whil
 
 ## Part E. Make it your own
 
-To make it my own, I designed a paper puppet that donned sunglasses when the light reader was high enough. A video of it in action can be seen below, along with the code behind it. 
+To make it my own, I designed a paper puppet that donned sunglasses when the photoresistor registered enough light hitting the puppet. A video of it in action (with a flashlight, since it's been gloomy lately) can be seen below, along with the code behind it. 
 
 <a href="https://youtu.be/oASNZj3RtpA">Action Video</a><BR><BR>
  <a href="https://github.com/ckruger0/IDD-Fa18-Lab4/blob/master/sunglasses_dude.ino">Sunglasses Code</a>
